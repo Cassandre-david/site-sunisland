@@ -1,0 +1,15 @@
+.topnav{
+    display: flex;
+    justify-content: space-around;
+    background-color: #454545;
+    color: #ffffff;
+    padding:12px;
+}
+
+.email{
+    display: flex;
+}
+
+.bi-envelope{
+    color: #ffc000;
+}
