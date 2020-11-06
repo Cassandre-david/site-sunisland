@@ -3,7 +3,7 @@
     justify-content: space-around;
     background-color: #454545;
     color: #ffffff;
-    padding:12px;
+   ;
 }
 
 .email{
@@ -12,4 +12,34 @@
 
 .bi-envelope{
     color: #ffc000;
+}
+
+button{
+    text-transform: uppercase;
+    background-color: #ffc000;
+    color: #ffffff;
+    border-radius: 20px;
+    padding:5px 15px;
+    border-color: #ffc000;
+    width: 165px;
+}
+
+.navbar a{
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+span{
+    color: #ffc000;
+}
+
+h1{
+    font-size: 6em;
+}
+
+#myCarousel{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
 }
